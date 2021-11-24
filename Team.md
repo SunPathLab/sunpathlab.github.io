@@ -3,6 +3,8 @@ layout: page
 title: Team
 ---
 
+<div style="float:center; border:solid 1px gray; margin:5px;"><img src="../public/team.png" width="820"></div>
+
 <!---
 <center>
 %<img class="center" width="560" src="../public/team.png">
