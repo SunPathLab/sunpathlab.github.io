@@ -34,7 +34,7 @@ We innovate computational algorithms to quantify and model tumor heterogeneity (
 <div style="float:left; border:solid 1px gray; margin:10px;"><img src="../public/ITH_plot.png" width="230"></div>
 
 ---
-**_Visualizing Genomic Heterogeneity_**: Data visualizaion plays critical role in computational genomics. We develop visualization tools for tumor sequencing data to reveal the patterns of tumor heterogeneity, facilitate feature extraction, identify potential biases and inspire hypotheses regarding the dynamics of human cancers. 
+**_Visualizing Genomic Heterogeneity_**: Data visualizaion plays critical role in computational genomics. We develop visualization tools for tumor sequencing data to reveal the patterns of tumor heterogeneity, facilitate feature extraction, identify potential biases and inspire hypotheses regarding the dynamics of human cancers. [Software to be released]
 <!-- Example: [VAP](https://combine-lab.github.io/VAP/) -->
 
 ---
