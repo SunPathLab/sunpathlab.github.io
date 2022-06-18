@@ -11,7 +11,7 @@ title: Scholarly Work
 {:.paper}
 <span>Evolving copy number gains promote tumor expansion and bolster mutational diversification</span>{:.papertitle}  
 <span>**Z Wang**, **Y Xia**, L Mills, **A.N. Nikolakopoulos**, **N Maeser**, JM Sheltzer, **R. Sun**</span>{:.authors}<br>
-<span>_bioRxiv_, 2022.06.14.495959, Jun. 2022</span>{:.journal}
+<span>_bioRxiv_, 2022.06.14.495959, Jun. 2022</span>{:.journal}  
 ☕<span>**DOI:** [10.1101/2022.06.14.495959](https://doi.org/10.1101/2022.06.14.495959)</span>{:.doi}
 
 {:.paper}
