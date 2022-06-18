@@ -3,7 +3,14 @@ layout: post
 title: Theory of Tumor Heterogeneity
 ---
 
-We innovate computational algorithms to quantify and model tumor heterogeneity (TH) from next generation sequencing (NGS) data, and leverage patterns of TH to statistically infer the kinetics of cancer.
+We innovate computational algorithms to quantify and model tumor heterogeneity (TH) from next generation sequencing (NGS) data, and leverage the patterns of TH to prioritize genomic drivers.
+
+<div style="float:left; border:solid 1px gray; margin:10px;"><img src="../public/cnmut.png" width="230"></div>
+
+---
+**_Timing of SCNAs_**: A genomic region, resting on a copy number (CN) state, acquires mutations at a rate proportional to its CN. Leveraging this bias, we uncovered late clonal CN gains appearing right before the onset of tumor expansion. These gains promote growth according to our math modeling.
+
+---
 
 <div style="float:left; border:solid 1px gray; margin:10px;"><img src="../public/clonal_dynamics.png" width="230"></div>
 
