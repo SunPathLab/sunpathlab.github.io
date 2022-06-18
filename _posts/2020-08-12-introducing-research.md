@@ -8,7 +8,7 @@ We innovate computational algorithms to quantify and model tumor heterogeneity (
 <div style="float:left; border:solid 1px gray; margin:10px;"><img src="../public/cnmut.png" width="230"></div>
 
 ---
-**_Timing of SCNAs_**: A genomic region, resting on a copy number (CN) state, acquires mutations at a rate proportional to its CN. Leveraging this bias, we uncovered late clonal CN gains appearing right before the onset of tumor expansion. These gains promote growth according to our math modeling.
+**_Timing of SCNAs_**: A genomic region, resting on a copy number (CN) state, acquires mutations at a rate proportional to its CN. Leveraging this bias, we can chart the timing of somatic copy number aberrations during somatic evolution. In this [preprint](https://doi.org/10.1101/2022.06.14.495959) we uncovered late clonal CN gains appearing right before the onset of tumor expansion and modeled their effect in promoting tumor growth.
 
 ---
 
