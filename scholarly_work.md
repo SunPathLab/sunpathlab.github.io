@@ -9,10 +9,16 @@ title: Scholarly Work
 ### Tumor Clonal Dynamics
 
 {:.paper}
+<span>Evolving copy number gains promote tumor expansion and bolster mutational diversification</span>{:.papertitle}  
+<span>**Z Wang**, **Y Xia**, L Mills, **A.N. Nikolakopoulos**, **N Maeser**, JM Sheltzer, **R. Sun**</span>{:.authors}<br>
+<span>_bioRxiv_, 2022.06.14.495959, Jun. 2022</span>{:.journal}
+☕<span>**DOI:** [10.1101/2022.06.14.495959](https://doi.org/10.1101/2022.06.14.495959)</span>{:.doi}
+
+{:.paper}
 <span>Elements and Evolutionary Determinants of Genomic Divergence Between Paired Primary and Metastatic Tumors</span>{:.papertitle}  
 <span>**R. Sun** and **A.N. Nikolakopoulos**</span>{:.authors}<br>
-<span>_bioRxiv_, 2020.08.24.262378,, Aug. 2020</span>{:.journal}  
-☕<span>**DOI:** [10.1101/2020.08.24.262378](https://doi.org/10.1101/2020.08.24.262378)</span>{:.doi}
+<span>_PLoS Computational Biology_, 17(3):e1008838, Mar. 2021</span>{:.journal}  
+☕<span>**DOI:** [10.1371/journal.pcbi.1008838](https://doi.org/10.1371/journal.pcbi.1008838)</span>{:.doi}
 
 {:.paper}
 <span>Characterizing the ecological and evolutionary dynamics of cancer</span>{:.papertitle}  
