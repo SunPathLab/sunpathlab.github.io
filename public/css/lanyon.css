@@ -568,3 +568,27 @@ img[src~="thumbnail"] {
 img[src~="bordered"] {
    border: 1px solid black;
 }
+
+/*
+ * crop the image to be round shape
+ * by ruping sun
+ * 
+ */
+
+.image-cropper {
+  width: 220px;
+  height: 220px;
+  position: relative;
+  float: left;
+  overflow: hidden;
+  border: solid 1px gray;
+  margin: 10px;
+  border-radius: 50%;
+}
+
+img {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
