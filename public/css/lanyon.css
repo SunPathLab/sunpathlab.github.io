@@ -581,3 +581,7 @@ ruping
   object-fit:cover;
   border-radius:50%;
 }
+
+.mydiv{
+  border-radius: 50%
+}
