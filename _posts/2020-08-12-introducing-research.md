@@ -3,7 +3,7 @@ layout: post
 title: Theory of Tumor Heterogeneity
 ---
 
-We innovate computational algorithms to quantify and model tumor heterogeneity (TH) from next generation sequencing (NGS) data, and leverage the patterns of TH to prioritize genomic drivers.
+As a group specialized in computational genomics at the University of Minnesota, we develop tools in quantifying and modeling tumor heterogeneity (TH) from high-throughput sequencing data. We in turn leverage the patterns of TH to study the dynamics of cancer and to identify genomic alterations that affect the rate of tumor progression.
 
 
 <div style="float:left; border:solid 1px gray; margin:10px;"><img src="../public/cnmut.png" class="myimg"></div>
