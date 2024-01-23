@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scholarly Work
+title: Publications
 ---
 
 [//]:# Selected Publications
