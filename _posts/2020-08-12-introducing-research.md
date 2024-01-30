@@ -6,7 +6,7 @@ title: Theory of Tumor Heterogeneity
 As a group specialized in computational genomics at the University of Minnesota, we develop tools in quantifying and modeling tumor heterogeneity (TH) from high-throughput sequencing data. We in turn leverage the patterns of TH to study the dynamics of cancer and to identify genomic alterations that affect the rate of tumor progression.
 
 
-<div style="float:left; border:solid 1px gray; margin:10px;"><img src="../public/cnmut.png" class="myimg"></div>
+<div style="float:left; border:solid 1px gray; margin:10px;"><img src="../public/graphical_abstract.png" class="myimg"></div>
 
 ---
 **_Timing of SCNAs_**: A genomic region, when resting on a copy number (CN) state, acquires mutations at a rate proportional to its CN. Leveraging this bias, we can chart the relative timing of somatic copy number aberrations (SCNAs) during the initiation and progression of individual tumors. In this [preprint](https://doi.org/10.1101/2022.06.14.495959), we uncovered late CN gains appearing right before the onset of clonal expansion and modeled their fitness effect in promoting tumor growth.
