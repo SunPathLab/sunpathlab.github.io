@@ -10,7 +10,7 @@ As a group specialized in computational genomics at the University of Minnesota,
 <div style="float:left; border:solid 1px gray; margin:10px;"><img src="../public/graphical_abstract.png" width="230"></div>
 
 ---
-**_Timing of SCNAs_**: A genomic region, when resting on a copy number (CN) state, acquires mutations at a rate proportional to its CN. Leveraging this bias, we can chart the relative timing of somatic copy number aberrations (SCNAs) during the initiation and progression of individual tumors. In this [preprint](https://doi.org/10.1101/2022.06.14.495959), we uncovered late CN gains appearing right before the onset of clonal expansion and modeled their fitness effect in promoting tumor growth.
+**_Timing of SCNAs_**: A genomic region, when resting on a copy number (CN) state, acquires mutations at a rate proportional to its CN. Leveraging this bias, we can chart the relative timing of somatic copy number aberrations (SCNAs) during the initiation and progression of individual tumors. In this [article](https://doi.org/10.1038/s41467-024-46414-5), we uncovered late CN gains appearing right before the onset of clonal expansion and modeled their fitness effect in promoting tumor growth.
 
 ---
 
