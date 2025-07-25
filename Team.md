@@ -20,6 +20,7 @@ title: Team
 
 | Alumni | Current position | Photo |
 | :--- | :---- | :---- |
+| **Zicheng Wang** <br/> *Postdoc*| Assistant Professor at <br/> The Chinese University of Hong Kong, Shenzhen | <img width="100" src="../public/Zicheng-Wang.jpg"> |
 | **Athanasios Nikolakopoulos** <br/> *Research Associate* | Scientist at Amazon Research | <img width="100" src="../public/Athanasios.jpg"> |
 | **Ying Huang** <br/> *master student* | Machine learning engineer at <br/> Sunshine Insurance Group, China| <img width="100" src="../public/huangying.jpg"> |
 | **Sakshi Rathi** <br/> *master student* | DevOps engineer at Goldman Sachs | <img width="100" src="../public/sakshi.jpg"> |
